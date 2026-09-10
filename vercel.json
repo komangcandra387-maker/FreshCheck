@@ -3,6 +3,5 @@
     "api/**/*.py": {
       "maxDuration": 60
     }
-  },
-  "buildCommand": "vercel build"
+  }
 }
